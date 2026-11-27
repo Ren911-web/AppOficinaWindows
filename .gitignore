@@ -13,4 +13,9 @@ secrets/
 locales/
 resources/default_app.asar
 resources/*.pak
+LICENSE
+PC-README.md
+icudtl.dat
+version
+vk_swiftshader_icd.json
 
