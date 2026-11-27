@@ -1,0 +1,16 @@
+debug.log
+data/
+*.log
+*.tmp
+*.bak
+node_modules/
+secrets/
+*.exe
+*.dll
+*.pak
+*.bin
+*.html
+locales/
+resources/default_app.asar
+resources/*.pak
+

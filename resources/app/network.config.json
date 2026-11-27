@@ -1,0 +1,8 @@
+{
+  "primarySsid": "__CURRENT_WIFI__",
+  "primaryLabel": "WiFi actual",
+  "backupSsid": "Takego",
+  "serverPort": 4173,
+  "connectionStrategy": "primary-then-backup",
+  "notes": "La aplicación detectará la pérdida del servidor y ofrecerá la red Takego. El cambio de WiFi siempre requiere confirmación del sistema operativo."
+}
