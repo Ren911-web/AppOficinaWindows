@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "mandatory": false,
   "notes": "Versión inicial del canal de actualizaciones.",
-  "package": "AppOficinaWindows.zip",
+  "package": "https://github.com/Ren911-web/AppOficinaWindows/releases/latest/download/AppOficinaWindows.zip",
   "sha256": ""
 }
 

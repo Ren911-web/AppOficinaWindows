@@ -1,6 +1,6 @@
 {
   "name": "appoficina",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "AppOficina para Windows con servidor local, autenticación y mapas",
   "scripts": {
